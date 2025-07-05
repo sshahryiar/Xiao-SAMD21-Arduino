@@ -23,7 +23,7 @@ void setup(void)
 }
 
 
-void loop() 
+void loop(void) 
 {
   r_present = tof.get_range();
 
